@@ -15,11 +15,7 @@
 
 ### Sourcetype:
 - This app uses the following sourcetype, you may wish to adapt, just ensure to be consistent.
-<<<<<<< HEAD
 [netgear:switch:syslog]
-=======
-[netgear:wifi:switch]
->>>>>>> 12dda2f (Initial Commit)
 
 
 ## Git:
