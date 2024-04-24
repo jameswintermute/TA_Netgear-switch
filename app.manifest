@@ -48,10 +48,7 @@
     "_distributed"
   ],
   "targetWorkloads": [
-<<<<<<< HEAD
    "_indexers",
-=======
->>>>>>> 12dda2f (Initial Commit)
    "_forwarders",
    "_search_heads"
 }
