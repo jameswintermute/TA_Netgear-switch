@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "TA Netgear switch (community app)",
+    "description": "TA Netgear switch (Community App)",
     "classification": {
       "intendedAudience": null,
       "categories": [],
@@ -48,7 +48,8 @@
     "_distributed"
   ],
   "targetWorkloads": [
-   "_indexers",
-   "_forwarders",
-   "_search_heads"
+    "_indexers", 
+    "_forwarders", 
+    "_search_heads"
+  ]
 }
